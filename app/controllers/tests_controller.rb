@@ -2,7 +2,7 @@ class TestsController < ApplicationController
   def index
   end
 
-  def post
+  def new
   end
   
 end
